@@ -12,7 +12,7 @@ This project is built using Google Colab and Gemini Pro API. It takes a news art
 ⚠️ Work in progress – API not fully integrated due to time and technical constraints.
 
 ## How to Run
-1. Open the notebook `main.ipynb`
+1. Open the notebook `News_Anchor_AI.ipynb`
 2. Add your own Google API key where prompted.
 3. Run all cells sequentially.
 
